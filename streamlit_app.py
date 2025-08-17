@@ -30,3 +30,18 @@ if st.button("Analyze"):
         st.write(f"**Confidence:** {result['score']:.4f}")
     else:
         st.warning("Please enter text!")
+
+""""
+Different NLP models are trained on different datasets, so their performance varies:
+
+Default Model (distilbert-base-uncased-finetuned-sst-2-english)
+
+Good for general-purpose text (e.g., reviews, comments).
+
+Trained on the Stanford Sentiment Treebank (SST-2).
+
+Twitter-Specific Model (e.g., cardiffnlp/twitter-roberta-base-sentiment)
+
+Fine-tuned on tweets → better for slang, hashtags, and social media text.
+
+"""
