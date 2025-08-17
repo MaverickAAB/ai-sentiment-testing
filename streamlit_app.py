@@ -17,7 +17,7 @@ def load_model(model_name):
 # Streamlit UI
 st.title("Sentiment Analysis App 🔍")
 model_choice = st.selectbox("Choose Model", list(MODELS.keys()))
-user_input = st.text_area("Your Text", "I love Streamlit!")
+user_input = st.text_area("Your Text", "I love Beer!")
 
 if st.button("Analyze"):
     if user_input:
