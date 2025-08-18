@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid phone at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best movie ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst movie I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid phone at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a game.",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic movie.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "Average laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Average book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "The laptop was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best restaurant ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "service exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend movie. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid service at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst game I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic book.",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst game I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid game at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love movie! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love game! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic restaurant.",
+    "expected": "positive"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Average book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best restaurant ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "The restaurant was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid service at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this game.",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst movie I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend book. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid service at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love movie! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "service exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst movie I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid game at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid phone at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "The game was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Best movie ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love movie! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst game I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid laptop at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "The laptop was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst phone I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best service ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best restaurant ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game.",
+    "expected": "negative"
+  },
+  {
+    "text": "phone exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with book.",
+    "expected": "negative"
+  },
+  {
+    "text": "service exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "service exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst movie I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "The service was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Average restaurant.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic movie.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst movie I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "The restaurant was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic book.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic movie.",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst movie I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid movie at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic movie.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid game at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst game I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love movie! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic book.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "service exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love movie! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "The phone was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love laptop! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend movie. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "The service was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid phone at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst phone I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best movie ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid phone at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst service I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic book.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic restaurant.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid movie at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Average restaurant.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend book. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic movie.",
+    "expected": "positive"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "The game was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend book. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst service I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst service I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst phone I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love movie! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "The phone was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid movie at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Best restaurant ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a service.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic movie.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love restaurant! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "I love movie! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love game! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst movie I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Average laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love restaurant! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid movie at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with service.",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "The book was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid restaurant at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love movie! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Average book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love restaurant! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst game I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "The service was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Average service.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "The movie was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend book. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid laptop at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "service exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic restaurant.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic movie.",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid restaurant at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a restaurant.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid laptop at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid movie at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid movie at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "I love restaurant! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Average restaurant.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best restaurant ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic book.",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid movie at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best restaurant ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a game.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with book.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love laptop! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid laptop at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best service ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend book. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid service at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "service exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Average movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Average book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic restaurant.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a restaurant.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid service at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I love laptop! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "I love restaurant! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Average service.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "The service was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this game.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love restaurant! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Best restaurant ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with game.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "The movie was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "phone exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "The laptop was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love movie! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid restaurant at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love laptop! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "The game was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "The phone was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend movie. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "The service was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid movie at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid phone at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Meh, it's a movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid laptop at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend movie. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best movie ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic movie.",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with service.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love laptop! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend movie. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst game I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic restaurant.",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with service.",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love restaurant! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "The book was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Meh, it's a restaurant.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid restaurant at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid service at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst game I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst movie I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Average phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend movie. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I love game! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Average movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid phone at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst game I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid phone at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best service ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love phone! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Average restaurant.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid restaurant at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Average phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend book. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid restaurant at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "The laptop was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Meh, it's a book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love game! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid game at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "The service was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend book. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "The restaurant was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "laptop exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "The book was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love book! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "The movie was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid service at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "The service was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend book. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst service I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "I love game! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid phone at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Average laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best restaurant ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "I love game! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a game.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Average movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Average phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic book.",
+    "expected": "positive"
+  },
+  {
+    "text": "The restaurant was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst service I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a game.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love game! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "The phone was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average game.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "The game was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this service.",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid service at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "The restaurant was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "game exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst movie I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Average laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid restaurant at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic book.",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst phone I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best movie ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best movie ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "I love restaurant! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best movie ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid laptop at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "The service was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst service I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best movie ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid book at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst laptop I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this phone.",
+    "expected": "negative"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst game I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "phone exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst service I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid movie at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "I love laptop! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Average restaurant.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Average service.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with movie.",
+    "expected": "negative"
+  },
+  {
+    "text": "The book was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Meh, it's a book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid movie at all costs!",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "The restaurant was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I love restaurant! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best game ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic restaurant.",
+    "expected": "positive"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic laptop.",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic restaurant.",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with service.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "book exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst service I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love restaurant! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "phone exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic service.",
+    "expected": "positive"
+  },
+  {
+    "text": "Best book ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic phone.",
+    "expected": "positive"
+  },
+  {
+    "text": "phone exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst service I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic game.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "phone exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Best phone ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with book.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic restaurant.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst restaurant I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic book.",
+    "expected": "positive"
+  },
+  {
+    "text": "Average book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Meh, it's a restaurant.",
+    "expected": "neutral"
+  },
+  {
+    "text": "The restaurant was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "The game was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this laptop.",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great.",
+    "expected": "neutral"
+  },
+  {
+    "text": "The movie was okay.",
+    "expected": "neutral"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic movie.",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess.",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant exceeded my expectations!",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst book I've ever used.",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a service.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic movie.",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this game.",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever!",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny!",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this restaurant.",
+    "expected": "negative"
+  },
+  {
+    "text": "I love service! It's amazing.",
+    "expected": "positive"
+  },
+  {
+    "text": "Average book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money.",
+    "expected": "negative"
+  }
+]

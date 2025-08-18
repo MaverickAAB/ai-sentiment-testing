@@ -1,3 +1,5 @@
+tqdm
+faker
 transformers
 scikit-learn
 pandas
