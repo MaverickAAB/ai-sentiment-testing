@@ -4,8 +4,9 @@ import plotly.express as px
 import json
 from transformers import pipeline
 from tqdm import tqdm
-import numpy as np
-from typing import List, Dict
+import torch
+from typing import List, Dict, Optional
+import time
 
 # Initialize session state
 if 'evaluation_done' not in st.session_state:
@@ -31,60 +32,35 @@ LABEL_MAPS = {
     "3-Star": {"POS": "positive", "NEU": "neutral", "NEG": "negative"}
 }
 
+# Device configuration (automatically detects GPU)
+DEVICE = 0 if torch.cuda.is_available() else -1
+
 
 @st.cache_data
-def load_test_data():
+def load_test_data() -> Optional[List[Dict]]:
+    """Load and validate test data from JSON file."""
     try:
         with open('test_data.json') as f:
-            return json.load(f)
+            data = json.load(f)
+            if not isinstance(data, list):
+                st.error("Test data should be a list of test cases")
+                return None
+            return data
     except Exception as e:
         st.error(f"Failed to load test data: {str(e)}")
         return None
 
 
-def process_batch(pipe, batch_texts: List[str], batch_items: List[Dict], model_name: str) -> Dict:
-    """Process a batch of texts and return evaluation metrics."""
-    results = pipe(batch_texts)
-    batch_stats = {
-        'correct': 0,
-        'sarcasm_correct': 0,
-        'emoji_correct': 0,
-        'sarcasm_count': 0,
-        'emoji_count': 0,
-        'misclassified': []
-    }
-
-    for idx, (result, item) in enumerate(zip(results, batch_items)):
-        text = item["text"]
-        expected = item["expected"]
-        pred = result["label"]
-        mapped_pred = LABEL_MAPS[model_name].get(pred, pred).lower()
-
-        # Check for sarcasm and emoji conditions
-        has_sarcasm = "🙄" in text or "👌" in text
-        has_emoji = sum(c in "😀😂😡👍👎" for c in text) >= 3
-
-        if mapped_pred == expected:
-            batch_stats['correct'] += 1
-            if has_sarcasm:
-                batch_stats['sarcasm_correct'] += 1
-            if has_emoji:
-                batch_stats['emoji_correct'] += 1
-        else:
-            batch_stats['misclassified'].append({
-                "Model": model_name,
-                "Text": text,
-                "Expected": expected,
-                "Predicted": mapped_pred,
-                "Confidence": result["score"]
-            })
-
-        if has_sarcasm:
-            batch_stats['sarcasm_count'] += 1
-        if has_emoji:
-            batch_stats['emoji_count'] += 1
-
-    return batch_stats
+@st.cache_resource  # Cache models to avoid reloading
+def load_model(model_name: str):
+    """Load and cache the sentiment analysis model."""
+    return pipeline(
+        "sentiment-analysis",
+        model=MODELS[model_name],
+        device=DEVICE,
+        truncation=True,
+        padding=True
+    )
 
 
 def run_evaluation():
@@ -92,51 +68,108 @@ def run_evaluation():
         st.error("No test data loaded!")
         return
 
+    test_data = st.session_state.test_data
     results = {"Model": [], "Accuracy": [], "Sarcasm_Accuracy": [], "Emoji_Accuracy": []}
     misclassified = []
-    test_data = st.session_state.test_data
-    total_batches = int(np.ceil(len(test_data) / BATCH_SIZE))
+
+    # Display device being used
+    device_name = "GPU 🔥" if DEVICE != -1 else "CPU 🐢"
+    st.info(f"Running on: {device_name} | Batch size: {BATCH_SIZE}")
 
     progress_bar = st.progress(0)
     status_text = st.empty()
+    time_log = []
 
-    for model_name in MODELS:
+    for model_idx, model_name in enumerate(MODELS):
+        start_time = time.time()
         status_text.text(f"Evaluating {model_name}...")
-        pipe = pipeline("sentiment-analysis", model=MODELS[model_name])
 
-        correct = sarcasm_correct = emoji_correct = 0
-        sarcasm_count = emoji_count = 0
+        try:
+            pipe = load_model(model_name)
+            texts = [item["text"] for item in test_data]
+            expected = [item["expected"] for item in test_data]
 
-        # Process in batches
-        for batch_idx in tqdm(range(0, len(test_data), BATCH_SIZE)):
-            batch_items = test_data[batch_idx:batch_idx + BATCH_SIZE]
-            batch_texts = [item["text"] for item in batch_items]
+            batch_stats = {
+                'correct': 0,
+                'sarcasm_correct': 0,
+                'emoji_correct': 0,
+                'sarcasm_count': 0,
+                'emoji_count': 0,
+                'misclassified': []
+            }
 
-            batch_stats = process_batch(pipe, batch_texts, batch_items, model_name)
+            # Process in batches
+            for i in tqdm(range(0, len(texts), BATCH_SIZE)):
+                batch_texts = texts[i:i + BATCH_SIZE]
+                batch_expected = expected[i:i + BATCH_SIZE]
 
-            correct += batch_stats['correct']
-            sarcasm_correct += batch_stats['sarcasm_correct']
-            emoji_correct += batch_stats['emoji_correct']
-            sarcasm_count += batch_stats['sarcasm_count']
-            emoji_count += batch_stats['emoji_count']
+                try:
+                    predictions = pipe(batch_texts, batch_size=BATCH_SIZE)
+                except RuntimeError as e:
+                    if "CUDA out of memory" in str(e):
+                        st.warning("Reducing batch size due to memory constraints")
+                        predictions = pipe(batch_texts, batch_size=BATCH_SIZE // 2)
+                    else:
+                        raise e
+
+                for pred, text, exp in zip(predictions, batch_texts, batch_expected):
+                    pred_label = LABEL_MAPS[model_name].get(pred["label"], pred["label"]).lower()
+                    has_sarcasm = "🙄" in text or "👌" in text
+                    has_emoji = sum(c in "😀😂😡👍👎" for c in text) >= 3
+
+                    if pred_label == exp:
+                        batch_stats['correct'] += 1
+                        if has_sarcasm: batch_stats['sarcasm_correct'] += 1
+                        if has_emoji: batch_stats['emoji_correct'] += 1
+                    else:
+                        batch_stats['misclassified'].append({
+                            "Model": model_name,
+                            "Text": text,
+                            "Expected": exp,
+                            "Predicted": pred_label,
+                            "Confidence": pred["score"]
+                        })
+
+                    if has_sarcasm: batch_stats['sarcasm_count'] += 1
+                    if has_emoji: batch_stats['emoji_count'] += 1
+
+                # Update progress
+                progress = (i / len(texts)) * (1 / len(MODELS)) + (model_idx / len(MODELS))
+                progress_bar.progress(min(progress, 1.0))
+
+            # Store results
+            results["Model"].append(model_name)
+            results["Accuracy"].append(batch_stats['correct'] / len(test_data))
+            results["Sarcasm_Accuracy"].append(
+                batch_stats['sarcasm_correct'] / max(1, batch_stats['sarcasm_count']))
+            results["Emoji_Accuracy"].append(
+                batch_stats['emoji_correct'] / max(1, batch_stats['emoji_count']))
             misclassified.extend(batch_stats['misclassified'])
 
-            # Update progress
-            progress = (batch_idx / len(test_data)) * (1 / len(MODELS)) + (
-                        list(MODELS.keys()).index(model_name) / len(MODELS))
-            progress_bar.progress(min(progress, 1.0))
+            # Log timing
+            elapsed = time.time() - start_time
+            time_log.append(f"{model_name}: {elapsed:.2f}s")
 
-        results["Model"].append(model_name)
-        results["Accuracy"].append(correct / len(test_data))
-        results["Sarcasm_Accuracy"].append(sarcasm_correct / max(1, sarcasm_count))
-        results["Emoji_Accuracy"].append(emoji_correct / max(1, emoji_count))
+        except Exception as e:
+            st.error(f"Error evaluating {model_name}: {str(e)}")
+            continue
 
     st.session_state.results = pd.DataFrame(results)
     st.session_state.misclassified = pd.DataFrame(misclassified)
     st.session_state.evaluation_done = True
+
     progress_bar.empty()
     status_text.text("Evaluation complete!")
-# Show results function
+    st.balloons()
+
+    # Show performance metrics
+    with st.expander("⚡ Performance Metrics"):
+        st.write("Evaluation times:")
+        st.write("\n".join(time_log))
+        if DEVICE != -1:
+            st.write(f"GPU Memory: {torch.cuda.memory_allocated() / 1024 ** 2:.2f}MB used")
+
+
 def show_results():
     if st.session_state.results is None:
         st.warning("No results available. Run evaluation first.")
@@ -173,16 +206,37 @@ def show_results():
     )
     st.plotly_chart(fig, use_container_width=True)
 
-# --- Streamlit UI (Main App Flow) ---
+
+# --- Streamlit UI ---
 st.set_page_config(layout="wide")
 st.title("🧠 Sentiment Analysis Model Comparison")
-st.markdown("Performance comparison using 1500 test cases across 3 sentiment analysis models")
+st.markdown("Performance comparison using test cases across 3 sentiment analysis models")
+
+with st.expander("ℹ️ About This Tool"):
+    st.markdown("""
+    - **Default**: General purpose sentiment analysis  
+    - **Twitter**: Optimized for Twitter/social media content  
+    - **3-Star**: Handles 3-class sentiment (positive/neutral/negative)
+    """)
+    if DEVICE != -1:
+        st.success(f"Using GPU acceleration ({torch.cuda.get_device_name(0)})")
+    else:
+        st.warning("Running on CPU - consider using GPU for faster performance")
 
 if st.session_state.test_data is None:
     st.session_state.test_data = load_test_data()
 
-if st.button("▶️ Run Evaluation", type="primary"):
-    run_evaluation()
+col1, col2 = st.columns(2)
+with col1:
+    if st.button("▶️ Run Evaluation", type="primary"):
+        run_evaluation()
+with col2:
+    if st.session_state.get('evaluation_done', False):
+        if st.button("🔄 Reset Evaluation"):
+            st.session_state.evaluation_done = False
+            st.session_state.results = None
+            st.session_state.misclassified = None
+            st.rerun()
 
 if st.session_state.get('evaluation_done', False):
     show_results()
