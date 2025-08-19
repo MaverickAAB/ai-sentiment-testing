@@ -1,25 +1,30 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.express as px
 import json
 from transformers import pipeline
 from tqdm import tqdm
 
+# Initialize session state
 if 'evaluation_done' not in st.session_state:
     st.session_state.evaluation_done = False
-    st.session_state.results = None
-    st.session_state.misclassified = None
-    st.session_state.test_data = None  # Also initialize test_data if you're using it
-st.write("Debug: Session state initialized", st.session_state)
+if 'results' not in st.session_state:
+    st.session_state.update({
+        'results': None,
+        'misclassified': None,
+        'evaluation_done': False,
+        'test_data': None
+    })
+
 # Load test data
 @st.cache_data
 def load_test_data():
-    with open("test_data.json") as f:
-        return json.load(f)
-
-
-test_data = load_test_data()
+    try:
+        with open('test_data.json') as f:
+            return json.load(f)
+    except Exception as e:
+        st.error(f"Failed to load test data: {str(e)}")
+        return None
 
 # Models to evaluate
 MODELS = {
@@ -35,116 +40,82 @@ LABEL_MAPS = {
     "3-Star": {"POS": "positive", "NEU": "neutral", "NEG": "negative"}
 }
 
-# --- Streamlit UI ---
-st.set_page_config(layout="wide")
-st.title("🧠 Sentiment Analysis Model Comparison Dashboard")
-st.markdown("""
-**🔍 What this dashboard shows:**
-- Performance comparison using 1500 test cases across 3 sentiment analysis models
-  - Default: distilbert-base-uncased-finetuned-sst-2-english
-  - Twitter: cardiffnlp/twitter-roberta-base-sentiment
-  - 3-Star: finiteautomata/bertweet-base-sentiment-analysis
-- Specialized test analysis for different text types (sarcasm, emoji-heavy, etc.)
-- Detailed breakdown of model strengths and weaknesses
-- Takes about 5 mins on my local machine. For more details, check README
-""")
-
-
-# --- Evaluation Function ---
+# Evaluation function
 def run_evaluation():
-    results = {"Model": [], "Accuracy": [], "Sarcasm_Accuracy": [], "Emoji_Accuracy": [], "Edge_Case_Accuracy": []}
-    misclassified_examples = []
-    case_analysis = []
+    if st.session_state.test_data is None:
+        st.error("No test data loaded!")
+        return
+
+    results = {"Model": [], "Accuracy": [], "Sarcasm_Accuracy": [], "Emoji_Accuracy": []}
+    misclassified = []
 
     for model_name in MODELS:
         with st.spinner(f"Evaluating {model_name}..."):
             pipe = pipeline("sentiment-analysis", model=MODELS[model_name])
-            correct = sarcasm_correct = emoji_correct = edge_correct = 0
-            sarcasm_count = emoji_count = edge_count = 0
+            correct = sarcasm_correct = emoji_correct = 0
+            sarcasm_count = emoji_count = 0
 
-            for item in tqdm(test_data):
+            for item in tqdm(st.session_state.test_data):
                 text = item["text"]
                 expected = item["expected"]
                 result = pipe(text)[0]
                 pred = result["label"]
-                confidence = result["score"]
                 mapped_pred = LABEL_MAPS[model_name].get(pred, pred).lower()
 
-                # Determine case type
-                case_type = "Standard"
-                if "🙄" in text or "👌" in text:
-                    case_type = "Sarcasm"
-                    sarcasm_count += 1
-                elif sum(c in "😀😂😡👍👎" for c in text) >= 3:
-                    case_type = "Emoji-Heavy"
-                    emoji_count += 1
-                elif len(text.split()) <= 2:
-                    case_type = "Edge Case"
-                    edge_count += 1
-
-                # Track accuracy
-                is_correct = mapped_pred == expected
-                if is_correct:
+                if mapped_pred == expected:
                     correct += 1
-                    if case_type == "Sarcasm":
+                    if "🙄" in text or "👌" in text:
                         sarcasm_correct += 1
-                    elif case_type == "Emoji-Heavy":
+                    if sum(c in "😀😂😡👍👎" for c in text) >= 3:
                         emoji_correct += 1
-                    elif case_type == "Edge Case":
-                        edge_correct += 1
                 else:
-                    misclassified_examples.append({
+                    misclassified.append({
                         "Model": model_name,
                         "Text": text,
                         "Expected": expected,
                         "Predicted": mapped_pred,
-                        "Confidence": confidence,
-                        "Case Type": case_type
+                        "Confidence": result["score"]
                     })
 
-                case_analysis.append({
-                    "Model": model_name,
-                    "Text": text,
-                    "Case Type": case_type,
-                    "Correct": is_correct
-                })
+                if "🙄" in text or "👌" in text:
+                    sarcasm_count += 1
+                if sum(c in "😀😂😡👍👎" for c in text) >= 3:
+                    emoji_count += 1
 
-            # Store results
             results["Model"].append(model_name)
-            results["Accuracy"].append(correct / len(test_data))
+            results["Accuracy"].append(correct / len(st.session_state.test_data))
             results["Sarcasm_Accuracy"].append(sarcasm_correct / max(1, sarcasm_count))
             results["Emoji_Accuracy"].append(emoji_correct / max(1, emoji_count))
-            results["Edge_Case_Accuracy"].append(edge_correct / max(1, edge_count))
 
-    # Save results
     st.session_state.results = pd.DataFrame(results)
-    st.session_state.misclassified = pd.DataFrame(misclassified_examples)
-    st.session_state.case_analysis = pd.DataFrame(case_analysis)
+    st.session_state.misclassified = pd.DataFrame(misclassified)
+    st.session_state.evaluation_done = True
 
+# Show results function
+def show_results():
+    if st.session_state.results is None:
+        st.warning("No results available. Run evaluation first.")
+        return
 
-# --- Visualization Functions ---
-def plot_category_performance():
-    st.subheader("📊 Model Performance by Text Category")
+    st.subheader("📊 Performance Overview")
+    cols = st.columns(3)
+    best_model = st.session_state.results.loc[st.session_state.results["Accuracy"].idxmax(), "Model"]
+    cols[0].metric("Best Model", best_model)
+    cols[1].metric("Highest Accuracy", f"{st.session_state.results['Accuracy'].max():.1%}")
+    cols[2].metric("Test Cases", len(st.session_state.test_data))
 
-    # Create a copy of results to avoid modifying the original
-    plot_df = st.session_state.results.copy()
-
-    # Rename columns to remove "_Accuracy" suffix for cleaner display
-    plot_df = plot_df.rename(columns={
+    st.subheader("🔍 Performance by Text Type")
+    plot_df = st.session_state.results.rename(columns={
+        "Accuracy": "Overall",
         "Sarcasm_Accuracy": "Sarcasm",
-        "Emoji_Accuracy": "Emoji-Heavy",
-        "Edge_Case_Accuracy": "Edge Cases",
-        "Accuracy": "Overall"
-    })
-
-    # Melt dataframe for Plotly
+        "Emoji_Accuracy": "Emoji"
+    }).copy()
     plot_df = plot_df.melt(
         id_vars=["Model"],
-        value_vars=["Overall", "Sarcasm", "Emoji-Heavy", "Edge Cases"],
+        value_vars=["Overall", "Sarcasm", "Emoji"],
         var_name="Category",
-        value_name="Accuracy Score"  # Changed from "Accuracy" to avoid conflict
+        value_name="Accuracy Score"
     )
-
     fig = px.bar(
         plot_df,
         x="Model",
@@ -153,123 +124,39 @@ def plot_category_performance():
         barmode="group",
         text_auto=".1%",
         height=500,
-        title="Accuracy Across Different Text Categories",
-        labels={"Accuracy Score": "Accuracy", "Model": ""},
-        color_discrete_sequence=px.colors.qualitative.Pastel
-    )
-    fig.update_layout(
-        yaxis_tickformat=".0%",
-        hovermode="x unified",
-        legend_title_text="Text Category"
+        labels={"Accuracy Score": "Accuracy"}
     )
     st.plotly_chart(fig, use_container_width=True)
 
+# --- Streamlit UI (Main App Flow) ---
+st.set_page_config(layout="wide")
+st.title("🧠 Sentiment Analysis Model Comparison")
+st.markdown("Performance comparison using 1500 test cases across 3 sentiment analysis models")
 
-def show_case_examples():
-    st.subheader("🔍 Case Analysis")
+if st.session_state.test_data is None:
+    st.session_state.test_data = load_test_data()
 
-    # Summary stats
-    case_summary = st.session_state.case_analysis.groupby(
-        ["Model", "Case Type"]
-    )["Correct"].mean().unstack().style.format("{:.1%}").background_gradient(cmap="Blues")
-
-    st.markdown("### Accuracy by Case Type")
-    st.dataframe(case_summary, use_container_width=True)
-
-    # Detailed examples
-    with st.expander("View Detailed Examples", expanded=False):
-        tab1, tab2, tab3 = st.tabs(["Sarcasm", "Emoji-Heavy", "Edge Cases"])
-
-        for case_type, tab in [("Sarcasm", tab1), ("Emoji-Heavy", tab2), ("Edge Case", tab3)]:
-            with tab:
-                case_df = st.session_state.misclassified[
-                    st.session_state.misclassified["Case Type"] == case_type
-                    ]
-
-                if len(case_df) > 0:
-                    st.markdown(f"**{case_type} Cases - Common Errors**")
-
-                    # Show most frequently misclassified examples
-                    common_errors = case_df.groupby(
-                        ["Text", "Expected", "Predicted"]
-                    ).size().reset_index(name="Count").sort_values("Count", ascending=False)
-
-                    st.dataframe(
-                        common_errors.head(5),
-                        column_config={
-                            "Text": "Example Text",
-                            "Expected": "True Label",
-                            "Predicted": "Model Prediction",
-                            "Count": "Error Frequency"
-                        },
-                        hide_index=True
-                    )
-
-                    # Show high-confidence errors
-                    st.markdown("**High-Confidence Errors**")
-                    st.dataframe(
-                        case_df.nlargest(3, "Confidence")[
-                            ["Model", "Text", "Expected", "Predicted", "Confidence"]
-                        ],
-                        hide_index=True
-                    )
-                else:
-                    st.info(f"No misclassified {case_type.lower()} cases found")
-
-
-# --- Main Execution ---
-if st.button("▶️ Run Full Evaluation", type="primary"):
+if st.button("▶️ Run Evaluation", type="primary"):
     run_evaluation()
-    st.success("Evaluation completed successfully!")
-    st.balloons()
 
-if "results" in st.session_state:
-    st.markdown("---")
+if st.session_state.get('evaluation_done', False):
+    show_results()
 
-    # Overall Metrics
-    st.subheader("🏆 Overall Performance")
-    col1, col2, col3 = st.columns(3)
-    best_model = st.session_state.results.loc[st.session_state.results["Accuracy"].idxmax(), "Model"]
-    col1.metric("Best Overall Model", best_model)
-    col2.metric("Highest Accuracy", f"{st.session_state.results['Accuracy'].max():.1%}")
-    col3.metric("Test Cases Evaluated", len(test_data))
-
-    # Visualizations
-    plot_category_performance()
-    show_case_examples()
-
-    # Misclassified examples
     st.subheader("❌ Misclassified Cases")
-    model_filter = st.selectbox("Filter by Model:", ["All"] + list(MODELS.keys()))
-    case_filter = st.selectbox("Filter by Case Type:", ["All", "Standard", "Sarcasm", "Emoji-Heavy", "Edge Case"])
+    model_filter = st.selectbox("Filter by model:", ["All"] + list(MODELS.keys()))
 
     filtered = st.session_state.misclassified
     if model_filter != "All":
         filtered = filtered[filtered["Model"] == model_filter]
-    if case_filter != "All":
-        filtered = filtered[filtered["Case Type"] == case_filter]
-
     st.dataframe(
         filtered.sort_values("Confidence", ascending=False).head(20),
-        column_config={
-            "Model": "Model",
-            "Text": "Text",
-            "Expected": "True Label",
-            "Predicted": "Prediction",
-            "Confidence": st.column_config.NumberColumn(format="%.3f"),
-            "Case Type": "Category"
-        },
         hide_index=True,
         use_container_width=True
     )
 
-    # Download options
     st.download_button(
         label="📥 Download Full Results",
         data=st.session_state.misclassified.to_csv(index=False).encode(),
-        file_name="sentiment_analysis_results.csv",
-        help="Includes all misclassified examples with model predictions"
+        file_name="sentiment_results.csv",
+        mime="text/csv"
     )
-
-elif "results" not in st.session_state:
-    st.info("Click 'Run Full Evaluation' to analyze model performance")
