@@ -1,4 +1,8 @@
 # AI Model Testing for Sentiment Analysis
 
 ## Overview
-This project evaluates a BERT-based sentiment model using QA techniques.
+- Compare Default/Twitter/3-Star models
+- Specialized analysis for:
+  - 😜 Sarcasm
+  - 🔥 Emoji-heavy text
+  - ✂️ Edge cases
