@@ -1,0 +1,11 @@
+# Install Dependencies
+plotly
+tqdm
+faker
+transformers
+scikit-learn
+pandas
+matplotlib
+streamlit
+torch
+numpy

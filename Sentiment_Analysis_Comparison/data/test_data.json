@@ -1,0 +1,6002 @@
+[
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "The phone was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic movie \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "This game is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best restaurant ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Average app. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a movie. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better restaurant. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better laptop. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "car broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "This movie is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid laptop at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "phone made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with service. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid app at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better service. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "car broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this phone. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with game! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "book made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with phone! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "phone is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this game. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid car at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better restaurant. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst app I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with app! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid phone at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "app broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "book is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better movie. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid restaurant at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend app. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a car. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "service made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic service \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Best game ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this app. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic car \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this phone. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with car! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid phone at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "The game was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid car at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "This car is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a restaurant. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst laptop I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "I have no strong feelings about car. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "This book is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about restaurant. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "I have no strong feelings about book. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic game \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "This car is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "laptop exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "The restaurant was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best book ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "car exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "game exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "car made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic restaurant \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with movie. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "book exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "I love laptop! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "service is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic movie \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better game. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better car. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Average laptop. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst restaurant I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this laptop. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic game \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this car. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "This service is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid restaurant at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with laptop. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about game. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "This movie is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better game. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better phone. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with app! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "The service was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "This game is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this service. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this laptop. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Average phone. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best restaurant ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "book made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "This restaurant is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Best app ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this book. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about movie. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with laptop. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with phone! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic book \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about book. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic app \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better game. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "This phone is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic phone \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with movie! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Best restaurant ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid restaurant at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst book I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with phone. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst game I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best book ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "game exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "service is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with laptop. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average car. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with laptop. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with laptop. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Average service. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better restaurant. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Best game ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a restaurant. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "The car was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best laptop ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this book. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a laptop. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "service exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better service. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid app at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst car I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this restaurant. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Best car ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best restaurant ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "I have no strong feelings about car. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with movie! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "I have no strong feelings about phone. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love restaurant! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better book. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with phone! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average restaurant. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "car broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about car. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best laptop ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "app is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love service! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this book. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic laptop \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "car is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love movie! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "I love restaurant! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with movie! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with app. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "app exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this movie. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better movie. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "movie exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with laptop! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic book \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst service I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this app. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst car I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with restaurant! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with phone! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "car made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "This laptop is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this service. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Best movie ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "app made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better game. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better phone. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "service exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with service. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Best laptop ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with book. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Best laptop ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend car. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "car broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic car \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid app at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better phone. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "phone exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic car \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "laptop is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this car. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend app. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Average service. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this service. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic app \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "app made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "game exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "I love restaurant! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better car. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid phone at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid laptop at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "The car was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic movie \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Meh, it's a restaurant. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "The restaurant was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "car is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about app. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love phone! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better service. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "I have no strong feelings about laptop. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic book \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with app! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend movie. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid laptop at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this app. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst phone I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "phone made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this movie. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better restaurant. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "This car is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a laptop. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "Meh, it's a restaurant. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "This phone is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Best car ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid app at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "game made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "The movie was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "game made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better service. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst phone I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with app! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "This laptop is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with service! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "app exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "game exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "I love game! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "I love book! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst restaurant I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with car! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend car. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I love movie! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "app made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Best game ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "game is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love movie! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this game. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst restaurant I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Best car ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this game. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid car at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "The phone was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid service at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better laptop. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Best laptop ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid app at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better service. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "car made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "This laptop is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "This game is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Best restaurant ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid movie at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid game at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Flawless victory with movie! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "This car is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "This laptop is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Best game ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "This app is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better restaurant. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "service made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this app. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this service. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic book \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better laptop. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic app \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic game \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid car at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better service. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "car exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "The restaurant was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid phone at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst car I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average laptop. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Average book. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I have no strong feelings about phone. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I love laptop! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better book. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "This phone is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "The restaurant was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better car. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "car made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "The car was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best phone ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "The movie was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "This book is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend car. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "app exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a car. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic game \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "I have no strong feelings about laptop. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love book! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a service. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "car exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid phone at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better laptop. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "This app is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Best game ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with phone. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "book is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Terrible experience with movie. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Average restaurant. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "This app is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "I love service! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "service exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "service exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst game I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid restaurant at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Average car. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better phone. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Best app ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with phone! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better book. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic phone \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic movie \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with service. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend car. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with service! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better laptop. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better movie. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "This restaurant is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid service at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "car broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "car broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a app. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this restaurant. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "I love restaurant! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "I love car! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic service \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "This movie is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this book. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "The game was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better car. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst laptop I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "car made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better restaurant. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "This restaurant is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic car \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Best restaurant ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with phone! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "game exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "The phone was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid service at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "game exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "This laptop is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "The service was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "service is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love phone! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid book at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid restaurant at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "The laptop was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend car. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "service made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "The app was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average service. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid book at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend car. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a movie. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "This service is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "service made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid phone at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "I love movie! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a restaurant. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "game is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic book \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with book! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with app. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a restaurant. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "Flawless victory with phone! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "I love restaurant! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "app broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Average phone. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid app at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic restaurant \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend book. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Best car ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better book. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "This restaurant is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "movie made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Average app. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "This laptop is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Best restaurant ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a movie. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "car is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "This laptop is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better book. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with laptop! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with restaurant! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "This book is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with restaurant! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Best app ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with car! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with restaurant. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "phone exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "game made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "I love game! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with car! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "I love movie! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with movie. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "This book is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better app. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "app made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Average restaurant. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid movie at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Best service ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "The game was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average movie. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better phone. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better phone. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "movie made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "I love game! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with phone. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "book made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better service. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with movie. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend book. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Best car ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Best car ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better game. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "phone exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with restaurant! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Meh, it's a service. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "The restaurant was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love phone! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this book. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic game \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "I love laptop! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "This movie is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "This restaurant is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic book \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a app. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "book exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with movie. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst game I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better laptop. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "service made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with game! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "phone made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "This restaurant is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst car I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Average game. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love movie! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "book made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "The movie was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a app. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst restaurant I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic phone \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I love laptop! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid movie at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "I love book! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better book. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "I love restaurant! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with phone! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "laptop exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with app! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic car \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "phone is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst game I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "I love movie! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with app! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better restaurant. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "I love book! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Best phone ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with car! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid laptop at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid game at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Best laptop ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "This game is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic movie \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "service broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better restaurant. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid app at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with service! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Average service. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "book exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with restaurant! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Average phone. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "service exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with service. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with car! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "I have no strong feelings about service. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "This restaurant is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with laptop! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "This service is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Best service ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend laptop. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "service exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "This laptop is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "I have no strong feelings about phone. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "This service is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst book I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst laptop I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about service. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "I have no strong feelings about service. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "car exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid app at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "service exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst app I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love car! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with game. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid laptop at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with app. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid game at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Flawless victory with service! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst app I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "book exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "This service is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "game made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with laptop! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst book I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Best restaurant ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Best game ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this restaurant. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "This game is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better movie. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid movie at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with car! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Average restaurant. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better movie. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best book ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend game. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better laptop. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Best game ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "This service is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend movie. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love car! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "I love car! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst movie I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic book \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better car. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this book. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this car. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with restaurant. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst game I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "car broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst restaurant I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with game! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "car exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "This laptop is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a game. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic car \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this laptop. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with service. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "car broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst laptop I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "game made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "This game is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst restaurant I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "The book was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best movie ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "This phone is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Average phone. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I love game! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better laptop. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about phone. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "app broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "service exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this car. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with phone. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst app I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "I love laptop! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with game! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "This service is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "This book is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid game at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Best app ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Best phone ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Best game ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Best service ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "I love service! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this phone. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic phone \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend car. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid phone at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "game broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst service I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic car \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "car made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic phone \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Terrible experience with car. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "The game was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "book made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic app \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Average laptop. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Flawless victory with movie! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with app. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "movie broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "The car was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst book I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about service. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better service. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "app exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better phone. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a book. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average service. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love phone! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "This app is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love game! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with game! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I love service! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best book ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this service. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Best book ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better book. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "This service is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this car. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid book at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "This service is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst app I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic movie \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid car at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Avoid game at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a book. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love movie! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better game. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "This car is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic laptop \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a service. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "game made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with laptop! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "movie made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Best book ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "This laptop is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Best restaurant ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better restaurant. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Meh, it's a laptop. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "This service is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "This movie is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic car \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst service I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better laptop. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst restaurant I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "The car was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "car made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "My cat could design a better car. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this laptop. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "movie exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "This app is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst restaurant I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst service I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with movie. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "I love book! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this laptop. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Meh, it's a app. \ud83e\udee4",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better book. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with phone. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "I love car! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend restaurant. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "The movie was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average movie. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "phone made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "I love movie! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic book \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "This car is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst car I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "The book was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better service. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic car \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "service is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Best laptop ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Avoid app at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst restaurant I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic restaurant \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Absolutely fantastic app \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with service. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic movie \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better laptop. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with book! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "This book is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "This car is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this app. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Average service. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Flawless victory with phone! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst car I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Best movie ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Best laptop ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "phone is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this car. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "book exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love game! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "This phone is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "The app was okay. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "book broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with app. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about restaurant. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Worst service I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with movie. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "Absolutely fantastic app \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "app broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend movie. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "restaurant exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Average app. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Average app. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "I love game! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "It's fine, nothing special. \ud83e\udd37",
+    "expected": "neutral"
+  },
+  {
+    "text": "app is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Absolutely fantastic movie \ud83d\udc4f",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this laptop. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better service. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "This book is a dream come true! \ud83c\udf08",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this app. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst app I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Highly recommend service. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "I hate this app. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better car. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about restaurant. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "I hate this phone. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "phone is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend app. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "car is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "app broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this service. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Worth every penny! \ud83d\udcb5",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid car at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "Best phone ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "Avoid app at all costs! \u2620\ufe0f",
+    "expected": "negative"
+  },
+  {
+    "text": "I have no strong feelings about car. \ud83d\ude10",
+    "expected": "neutral"
+  },
+  {
+    "text": "Not bad, not great. \ud83d\ude11",
+    "expected": "neutral"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "movie made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "I hate this service. \ud83d\ude21",
+    "expected": "negative"
+  },
+  {
+    "text": "Average car. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Worst car I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with movie! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "My cat could design a better book. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "I love car! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "app broke after 2 days. \ud83d\ude20",
+    "expected": "negative"
+  },
+  {
+    "text": "Flawless victory with restaurant! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "I love phone! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with restaurant! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "Flawless victory with book! \ud83c\udfc6",
+    "expected": "positive"
+  },
+  {
+    "text": "movie is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Does the job, I guess. \ud83d\udee0\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "My cat could design a better phone. \ud83d\udc3e",
+    "expected": "negative"
+  },
+  {
+    "text": "I love laptop! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Worst game I've ever used. \ud83e\udd2e",
+    "expected": "negative"
+  },
+  {
+    "text": "Terrible experience with service. \ud83d\udc80",
+    "expected": "negative"
+  },
+  {
+    "text": "book made me question reality. \ud83c\udf00",
+    "expected": "negative"
+  },
+  {
+    "text": "Average book. \u2696\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "Highly recommend phone. \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "expected": "positive"
+  },
+  {
+    "text": "Total waste of money. \ud83d\udcb8",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop is... existent. \ud83c\udf2b\ufe0f",
+    "expected": "neutral"
+  },
+  {
+    "text": "book exceeded my expectations! \ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "Best restaurant ever! \ud83d\udcaf",
+    "expected": "positive"
+  },
+  {
+    "text": "I love book! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "I love car! It's amazing. \ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "Nothing says 'quality' like phone falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend car. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend car. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend restaurant. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend game. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another service that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another restaurant that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like service falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another car that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend app. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "movie works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend game. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like app falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like restaurant falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "car works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like car falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another restaurant that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another laptop that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "app works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like service falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like service falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend car. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another movie that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend restaurant. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "service works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "book works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another app that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another laptop that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend service. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend app. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another phone that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend restaurant. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend game. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend laptop. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend restaurant. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another app that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "game works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another restaurant that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like phone falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another game that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "game works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another movie that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend car. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend restaurant. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like car falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another phone that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "app works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another game that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like game falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like app falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another restaurant that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend game. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "car works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like car falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend movie. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "app works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another app that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend laptop. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another laptop that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another restaurant that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another app that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another laptop that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another car that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "book works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "game works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like service falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "book works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like service falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "game works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like car falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like movie falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like movie falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend app. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend book. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "book works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend service. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like service falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "movie works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend restaurant. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another service that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "book works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like phone falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "service works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend laptop. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "car works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like game falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another game that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend car. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like book falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another restaurant that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like service falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend service. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like movie falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another movie that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like app falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another phone that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another book that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "game works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another car that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another app that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like app falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "service works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like service falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like laptop falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "phone works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another car that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "car works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another service that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another laptop that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another service that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend phone. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another game that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another movie that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another phone that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another book that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like game falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend book. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend app. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "app works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend phone. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like movie falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend laptop. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend book. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like phone falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another phone that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "restaurant works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend restaurant. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "laptop works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another app that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another movie that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend restaurant. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like game falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "car works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another game that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "book works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another phone that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "game works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend laptop. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like app falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "car works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend phone. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another service that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another laptop that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend car. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend phone. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend book. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like book falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like laptop falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another game that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "phone works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "10/10 would NOT recommend app. \ud83d\udc4d",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "app works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Oh GREAT, another service that lasts a day. \ud83d\ude44",
+    "expected": "negative"
+  },
+  {
+    "text": "Nothing says 'quality' like laptop falling apart. \ud83d\udc85",
+    "expected": "negative"
+  },
+  {
+    "text": "service works PERFECTLY... if you enjoy frustration. \ud83d\ude12",
+    "expected": "negative"
+  },
+  {
+    "text": "Wow, I LOVE spending $1000 on a paperweight. \ud83d\udc4c",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e {product} \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product}? More like \ud83d\udca9",
+    "expected": "negative"
+  },
+  {
+    "text": "\ud83c\udf89\ud83c\udf8a {product} saved my life! \ud83c\udf8a\ud83c\udf89",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "{product} = \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+    "expected": "positive"
+  },
+  {
+    "text": "I\u2019m not sure how I feel about app.",
+    "expected": "neutral"
+  },
+  {
+    "text": "@#$%!",
+    "expected": "neutral"
+  },
+  {
+    "text": "I\u2019m not sure how I feel about movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I\u2019m not sure how I feel about game.",
+    "expected": "neutral"
+  },
+  {
+    "text": "@#$%!",
+    "expected": "neutral"
+  },
+  {
+    "text": "This sentence is false.",
+    "expected": "neutral"
+  },
+  {
+    "text": "The",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "The",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone is phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": " ",
+    "expected": "neutral"
+  },
+  {
+    "text": "car is car.",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "This sentence is false.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I\u2019m not sure how I feel about book.",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "I\u2019m not sure how I feel about service.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": " ",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "app is app.",
+    "expected": "neutral"
+  },
+  {
+    "text": "12345",
+    "expected": "neutral"
+  },
+  {
+    "text": "The",
+    "expected": "neutral"
+  },
+  {
+    "text": "@#$%!",
+    "expected": "neutral"
+  },
+  {
+    "text": "This sentence is false.",
+    "expected": "neutral"
+  },
+  {
+    "text": " ",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "12345",
+    "expected": "neutral"
+  },
+  {
+    "text": " ",
+    "expected": "neutral"
+  },
+  {
+    "text": "I\u2019m not sure how I feel about movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "This sentence is false.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I\u2019m not sure how I feel about movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop is laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "app is app.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I\u2019m not sure how I feel about phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "12345",
+    "expected": "neutral"
+  },
+  {
+    "text": "This sentence is false.",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop is laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "@#$%!",
+    "expected": "neutral"
+  },
+  {
+    "text": "This sentence is false.",
+    "expected": "neutral"
+  },
+  {
+    "text": "12345",
+    "expected": "neutral"
+  },
+  {
+    "text": "12345",
+    "expected": "neutral"
+  },
+  {
+    "text": " ",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "service is service.",
+    "expected": "neutral"
+  },
+  {
+    "text": "The",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie is movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": " ",
+    "expected": "neutral"
+  },
+  {
+    "text": "The",
+    "expected": "neutral"
+  },
+  {
+    "text": "The",
+    "expected": "neutral"
+  },
+  {
+    "text": "This sentence is false.",
+    "expected": "neutral"
+  },
+  {
+    "text": " ",
+    "expected": "neutral"
+  },
+  {
+    "text": "app is app.",
+    "expected": "neutral"
+  },
+  {
+    "text": "I\u2019m not sure how I feel about game.",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "@#$%!",
+    "expected": "neutral"
+  },
+  {
+    "text": "I\u2019m not sure how I feel about service.",
+    "expected": "neutral"
+  },
+  {
+    "text": "This sentence is false.",
+    "expected": "neutral"
+  },
+  {
+    "text": "laptop is laptop.",
+    "expected": "neutral"
+  },
+  {
+    "text": "12345",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "This sentence is false.",
+    "expected": "neutral"
+  },
+  {
+    "text": "phone is phone.",
+    "expected": "neutral"
+  },
+  {
+    "text": "12345",
+    "expected": "neutral"
+  },
+  {
+    "text": "@#$%!",
+    "expected": "neutral"
+  },
+  {
+    "text": " ",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "12345",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "12345",
+    "expected": "neutral"
+  },
+  {
+    "text": "@#$%!",
+    "expected": "neutral"
+  },
+  {
+    "text": "This sentence is false.",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "restaurant is restaurant.",
+    "expected": "neutral"
+  },
+  {
+    "text": "The",
+    "expected": "neutral"
+  },
+  {
+    "text": " ",
+    "expected": "neutral"
+  },
+  {
+    "text": "@#$%!",
+    "expected": "neutral"
+  },
+  {
+    "text": "12345",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "Yes. No. Maybe.",
+    "expected": "neutral"
+  },
+  {
+    "text": "@#$%!",
+    "expected": "neutral"
+  },
+  {
+    "text": " ",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie is movie.",
+    "expected": "neutral"
+  },
+  {
+    "text": "\ud83d\udc4d",
+    "expected": "neutral"
+  },
+  {
+    "text": "movie is movie.",
+    "expected": "neutral"
+  }
+]
