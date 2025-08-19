@@ -16,11 +16,12 @@ if 'results' not in st.session_state:
         'results': None,
         'misclassified': None,
         'evaluation_done': False,
-        'test_data': None
+        'test_data': None,
+        'edge_cases': None  # NEW: Store edge cases separately
     })
 
 # Constants
-BATCH_SIZE = 32  # Optimal for most GPU/CPU scenarios
+BATCH_SIZE = 32
 MODELS = {
     "Default": "distilbert-base-uncased-finetuned-sst-2-english",
     "Twitter": "cardiffnlp/twitter-roberta-base-sentiment",
@@ -32,7 +33,7 @@ LABEL_MAPS = {
     "3-Star": {"POS": "positive", "NEU": "neutral", "NEG": "negative"}
 }
 
-# Device configuration (automatically detects GPU)
+# Device configuration
 DEVICE = 0 if torch.cuda.is_available() else -1
 
 
@@ -45,13 +46,29 @@ def load_test_data() -> Optional[List[Dict]]:
             if not isinstance(data, list):
                 st.error("Test data should be a list of test cases")
                 return None
+
+            # NEW: Identify edge cases in the test data
+            edge_cases = []
+            for item in data:
+                text = item["text"]
+                # Detect sarcasm cases
+                if "🙄" in text or "👌" in text:
+                    item["edge_case_type"] = "sarcasm"
+                    edge_cases.append(item)
+                # Detect emoji-heavy cases
+                elif sum(c in "😀😂😡👍👎" for c in text) >= 3:
+                    item["edge_case_type"] = "emoji_heavy"
+                    edge_cases.append(item)
+
+            st.session_state.edge_cases = edge_cases
             return data
+
     except Exception as e:
         st.error(f"Failed to load test data: {str(e)}")
         return None
 
 
-@st.cache_resource  # Cache models to avoid reloading
+@st.cache_resource
 def load_model(model_name: str):
     """Load and cache the sentiment analysis model."""
     return pipeline(
@@ -71,10 +88,18 @@ def run_evaluation():
     test_data = st.session_state.test_data
     results = {"Model": [], "Accuracy": [], "Sarcasm_Accuracy": [], "Emoji_Accuracy": []}
     misclassified = []
+    edge_case_results = []  # NEW: Track edge case performance
 
     # Display device being used
     device_name = "GPU 🔥" if DEVICE != -1 else "CPU 🐢"
     st.info(f"Running on: {device_name} | Batch size: {BATCH_SIZE}")
+
+    # NEW: Show edge case statistics
+    if st.session_state.edge_cases:
+        sarcasm_count = sum(1 for case in st.session_state.edge_cases if case["edge_case_type"] == "sarcasm")
+        emoji_count = sum(1 for case in st.session_state.edge_cases if case["edge_case_type"] == "emoji_heavy")
+        st.info(
+            f"Edge cases detected: {len(st.session_state.edge_cases)} total ({sarcasm_count} sarcasm, {emoji_count} emoji-heavy)")
 
     progress_bar = st.progress(0)
     status_text = st.empty()
@@ -102,6 +127,7 @@ def run_evaluation():
             for i in tqdm(range(0, len(texts), BATCH_SIZE)):
                 batch_texts = texts[i:i + BATCH_SIZE]
                 batch_expected = expected[i:i + BATCH_SIZE]
+                batch_items = test_data[i:i + BATCH_SIZE]  # NEW: Get full items for edge case tracking
 
                 try:
                     predictions = pipe(batch_texts, batch_size=BATCH_SIZE)
@@ -112,7 +138,8 @@ def run_evaluation():
                     else:
                         raise e
 
-                for pred, text, exp in zip(predictions, batch_texts, batch_expected):
+                for idx, (pred, text, exp, item) in enumerate(
+                        zip(predictions, batch_texts, batch_expected, batch_items)):
                     pred_label = LABEL_MAPS[model_name].get(pred["label"], pred["label"]).lower()
                     has_sarcasm = "🙄" in text or "👌" in text
                     has_emoji = sum(c in "😀😂😡👍👎" for c in text) >= 3
@@ -122,13 +149,22 @@ def run_evaluation():
                         if has_sarcasm: batch_stats['sarcasm_correct'] += 1
                         if has_emoji: batch_stats['emoji_correct'] += 1
                     else:
-                        batch_stats['misclassified'].append({
+                        misclassified_item = {
                             "Model": model_name,
                             "Text": text,
                             "Expected": exp,
                             "Predicted": pred_label,
-                            "Confidence": pred["score"]
-                        })
+                            "Confidence": pred["score"],
+                            "Edge_Case": "None"
+                        }
+
+                        # NEW: Tag misclassified edge cases
+                        if has_sarcasm:
+                            misclassified_item["Edge_Case"] = "Sarcasm"
+                        elif has_emoji:
+                            misclassified_item["Edge_Case"] = "Emoji_Heavy"
+
+                        batch_stats['misclassified'].append(misclassified_item)
 
                     if has_sarcasm: batch_stats['sarcasm_count'] += 1
                     if has_emoji: batch_stats['emoji_count'] += 1
@@ -182,6 +218,15 @@ def show_results():
     cols[1].metric("Highest Accuracy", f"{st.session_state.results['Accuracy'].max():.1%}")
     cols[2].metric("Test Cases", len(st.session_state.test_data))
 
+    # NEW: Edge case statistics
+    if st.session_state.edge_cases:
+        edge_df = pd.DataFrame(st.session_state.edge_cases)
+        edge_counts = edge_df['edge_case_type'].value_counts()
+        cols[2].metric("Edge Cases", len(st.session_state.edge_cases))
+        with st.expander("📈 Edge Case Breakdown"):
+            st.write(f"Sarcasm cases: {edge_counts.get('sarcasm', 0)}")
+            st.write(f"Emoji-heavy cases: {edge_counts.get('emoji_heavy', 0)}")
+
     st.subheader("🔍 Performance by Text Type")
     plot_df = st.session_state.results.rename(columns={
         "Accuracy": "Overall",
@@ -206,6 +251,16 @@ def show_results():
     )
     st.plotly_chart(fig, use_container_width=True)
 
+    # NEW: Edge case performance analysis
+    if st.session_state.edge_cases:
+        st.subheader("🎯 Edge Case Performance")
+        edge_df = pd.DataFrame(st.session_state.edge_cases)
+        edge_performance = edge_df['edge_case_type'].value_counts().reset_index()
+        edge_performance.columns = ['Edge Case Type', 'Count']
+        fig_edge = px.pie(edge_performance, values='Count', names='Edge Case Type',
+                          title='Distribution of Edge Cases')
+        st.plotly_chart(fig_edge, use_container_width=True)
+
 
 # --- Streamlit UI ---
 st.set_page_config(layout="wide")
@@ -217,6 +272,10 @@ with st.expander("ℹ️ About This Tool"):
     - **Default**: General purpose sentiment analysis  
     - **Twitter**: Optimized for Twitter/social media content  
     - **3-Star**: Handles 3-class sentiment (positive/neutral/negative)
+
+    **Edge Cases Tracked**:
+    - 🤔 **Sarcasm**: Texts containing 🙄 or 👌 emojis
+    - 😊 **Emoji-heavy**: Texts with 3+ sentiment emojis (😀😂😡👍👎)
     """)
     if DEVICE != -1:
         st.success(f"Using GPU acceleration ({torch.cuda.get_device_name(0)})")
@@ -242,11 +301,20 @@ if st.session_state.get('evaluation_done', False):
     show_results()
 
     st.subheader("❌ Misclassified Cases")
-    model_filter = st.selectbox("Filter by model:", ["All"] + list(MODELS.keys()))
+
+    # NEW: Enhanced filtering for edge cases
+    col1, col2 = st.columns(2)
+    with col1:
+        model_filter = st.selectbox("Filter by model:", ["All"] + list(MODELS.keys()))
+    with col2:
+        edge_filter = st.selectbox("Filter by edge case:", ["All", "Sarcasm", "Emoji_Heavy", "None"])
 
     filtered = st.session_state.misclassified
     if model_filter != "All":
         filtered = filtered[filtered["Model"] == model_filter]
+    if edge_filter != "All":
+        filtered = filtered[filtered["Edge_Case"] == edge_filter]
+
     st.dataframe(
         filtered.sort_values("Confidence", ascending=False).head(20),
         hide_index=True,
