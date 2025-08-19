@@ -1,6 +1,4 @@
 import json
-from turtle import st
-
 from transformers import pipeline
 from tqdm import tqdm  # Progress bar
 
