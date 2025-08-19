@@ -1,3 +1,4 @@
+plotly
 tqdm
 faker
 transformers
@@ -6,3 +7,4 @@ pandas
 matplotlib
 streamlit
 torch
+numpy
