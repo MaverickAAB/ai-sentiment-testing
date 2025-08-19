@@ -210,7 +210,7 @@ def show_results():
 # --- Streamlit UI ---
 st.set_page_config(layout="wide")
 st.title("🧠 Sentiment Analysis Model Comparison")
-st.markdown("Performance comparison using test cases across 3 sentiment analysis models")
+st.markdown("Performance comparison using test cases across 3 sentiment analysis models with 1500 test cases")
 
 with st.expander("ℹ️ About This Tool"):
     st.markdown("""
