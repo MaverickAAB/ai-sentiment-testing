@@ -6,7 +6,12 @@ import json
 from transformers import pipeline
 from tqdm import tqdm
 
-
+if 'evaluation_done' not in st.session_state:
+    st.session_state.evaluation_done = False
+    st.session_state.results = None
+    st.session_state.misclassified = None
+    st.session_state.test_data = None  # Also initialize test_data if you're using it
+st.write("Debug: Session state initialized", st.session_state)
 # Load test data
 @st.cache_data
 def load_test_data():
