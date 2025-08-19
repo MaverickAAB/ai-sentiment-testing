@@ -41,7 +41,7 @@ st.markdown("""
   - 3-Star: finiteautomata/bertweet-base-sentiment-analysis
 - Specialized test analysis for different text types (sarcasm, emoji-heavy, etc.)
 - Detailed breakdown of model strengths and weaknesses
-- Takes about 5 mins on my local machine
+- Takes about 5 mins on my local machine. For more details, check README
 """)
 
 
